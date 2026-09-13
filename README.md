@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:7a0000&height=230&section=header&text=TONY%20STARK%20Q%26A&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=An%20AI%20Character%20Chatbot%20Powered%20by%20Ollama&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:7a0000&height=230&section=header&text=TONY%20STARK%20Q%20and%20A&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=An%20AI%20Character%20Chatbot%20Powered%20by%20Ollama&descAlignY=60"/>
 
 <br>
 
@@ -12,8 +12,8 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black?style=for-the-badge)
 ![Gemma](https://img.shields.io/badge/Gemma-3-blue?style=for-the-badge)
 
@@ -158,7 +158,7 @@ This means the chatbot can operate without sending conversations to a traditiona
 ## 🧰 Tech Stack
 
 | Technology           | Purpose                 |
-| -------------------- | ----------------------- |
+| -------------------- | ------------------------ |
 | 🐍 **Python**        | Application development |
 | 🎈 **Streamlit**     | Web interface           |
 | 🦙 **Ollama**        | Local LLM execution     |
