@@ -176,7 +176,6 @@ The current implementation imports `streamlit` and `ollama`, uses `gemma3:latest
 character_BOT-/
 │
 ├── 📄 character_bot.py
-├── 🖼️ reactor.png
 └── 📄 README.md
 ```
 
